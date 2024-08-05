@@ -35,4 +35,5 @@ Este é um site pessoal desenvolvido por Rhyan Victor para centralizar links imp
     |-- web-black-icon.png
     |-- web-white-icon.png
     |-- tread-skateboard.jpg
+        |-- Creditos @riicardomoura
 ```
